@@ -1,15 +1,20 @@
 # soccer-web
 This is a betting website that show List of top football betting opportunities for all major soccer leagues .
+# Author
+Mary AUma
 
 # Technologies Used
 * HTML
 * CSS (Bootstrap)
-.Python 
+
+* Python 
 
 # Requirements
+
 Have git and github installed on your computer Have a working browser
 
 # Setup Instructions and Installation
+
 * Clone this repository to a location in your file system. git clone 
 
 * Open terminal command line then navigate to the root folder of the application. cd my-first-repo
@@ -21,14 +26,21 @@ Have git and github installed on your computer Have a working browser
 Want to contribute? Great! Follow the steps below: To fix a bug or enhance an existing module, follow these steps:
 
 # Fork the repo
+
 .Create a new branch (git checkout -b improve-feature)
+
 .Make the appropriate changes in the files
+
 *Add changes to reflect the changes made
+
 *Commit your changes (git commit -am 'Improve feature')
+
 *Push to the branch (git push origin improve-feature)
+
 *Create a Pull Request
 
 # Known Bugs
+
 There are no known bugs.
 
 # Link to Live Site
